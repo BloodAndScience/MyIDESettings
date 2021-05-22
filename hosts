@@ -1,0 +1,23 @@
+192.168.0.101 home-server.com
+192.168.0.101 www.home-server.com
+127.0.0.1 na1r.services.adobe.com 
+127.0.0.1 hlrcv.stage.adobe.com 
+127.0.0.1 lmlicenses.wip4.adobe.com 
+127.0.0.1 lm.licenses.adobe.com 
+127.0.0.1 activate.adobe.com 
+127.0.0.1 practivate.adobe.com 
+127.0.0.1 genuine.adobe.com 
+127.0.0.1 prod.adobegenuine.com 
+# Added by Docker Desktop
+192.168.0.107 host.docker.internal
+192.168.0.107 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+140.82.121.4 github.com # End of section
+127.0.0.1 offline.net
+127.0.0.1 offline.com
+185.199.110.154 github.githubassets.com
+151.101.1.63 files.pythonhosted.org
+151.101.64.223 pypi.org
+140.82.121.5 api.github.com
+185.199.109.153 githubstatus.com
