@@ -1,5 +1,4 @@
-
-ck Plus 2.0]
+[ Adblockc Plus 2.0]
 ! Title: BAS Adblock Filter
 ! Author: BloodAndSciene | http://reeksite.com/
 ! Version: 10.0
