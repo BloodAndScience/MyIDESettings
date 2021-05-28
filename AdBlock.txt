@@ -1,0 +1,16 @@
+youtube.com##.ytp-player-content.ytp-iv-player-content
+youtube.com##.ytp-iv-video-content
+youtube.com##.ytp-caption-window-container
+youtube.com##.html5-video-player.ytp-transparent.ytp-exp-bottom-control-flexbox.ytp-hide-info-bar.ytp-autonav-endscreen-cancelled-state.paused-mode
+youtube.com###ytp-caption-window-container
+youtube.com###movie_player
+stackoverflow.com##.left-sidebar--sticky-container.js-sticky-leftnav
+en.wikipedia.org###mw-panel
+duckduckgo.com##.header__logo-wrap.js-header-logo
+blob:https://www.youtube.com/f705268f-728f-435a-aa3c-4a46e571e3b0
+blob:https://www.youtube.com/a73f302a-5b4c-473e-bb3d-9b65b337ab66
+blob:https://www.youtube.com/43a6e26f-6c91-426c-875d-ca9648247d26
+blob:https://www.youtube.com/23a08f0d-daa8-4f99-ac7d-5748a1c6043c
+askubuntu.com##.left-sidebar.js-pinned-left-sidebar.ps-relative
+askubuntu.com###left-sidebar
+
