@@ -1,3 +1,19 @@
+
+ck Plus 2.0]
+! Title: BAS Adblock Filter
+! Author: BloodAndSciene | http://reeksite.com/
+! Version: 10.0
+! Expires: 1 days
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+! Homepage: https://github.com/BloodAndScience/MyIDESettings
+! WritingRules: https://adblockplus.org/filters
+! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+! RegExpVisualizer http://www.regexper.com/
+!
+! ----- MyAdBloc k------------------------------------------------------------------------------------------------------------------- !
+!
+! ----- Generic ----- !
+!
 youtube.com##.ytp-player-content.ytp-iv-player-content
 youtube.com##.ytp-iv-video-content
 youtube.com##.ytp-caption-window-container
