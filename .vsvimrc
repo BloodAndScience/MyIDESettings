@@ -27,10 +27,11 @@ map <Space>tl :vsc ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun<CR>
 map <Space>tt :vsc ReSharper.ReSharper_ShowUnitTestSessions<CR>
 
 map <Space>/ :vsc ReSharper.ReSharper_LineComment<CR>
-map <Space>qk :vsc Tools.CustomizeKeyboard<CR>
+map <Space>k :vsc Tools.CustomizeKeyboard<CR>
 
 map <Space>b :vsc Build.BuildSolution<CR>
 map <Space><Space> :vsc Tools.InvokeAceJumpCommand<CR>
+
 map <Space>; A;<Esc>
 map ] :vsc ReSharper.ReSharper_GotoNextMethod<CR>
 map [ :vsc ReSharper.ReSharper_GotoPrevMethod<CR>
@@ -39,5 +40,7 @@ map zl :so ~/.vsvimrc<CR>
 map zo :vsc File.CloseAllButThis<CR>
 
 map gi :vsc ReSharper.ReSharper_Generate<CR>
+map gI :vsc ReSharper.ReSharper_GenerateFileBesides<CR>
+
 map gm :vsc ReSharper.ReSharper_GotoFileMember<CR>
 map gt :vsc ReSharper.ReSharper_GotoType<CR>

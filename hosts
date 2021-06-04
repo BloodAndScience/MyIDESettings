@@ -1,5 +1,6 @@
-192.168.0.101 home-server.com
+﻿192.168.0.101 home-server.com
 192.168.0.101 www.home-server.com
+192.168.0.101 gitlab.home-server.com
 127.0.0.1 na1r.services.adobe.com 
 127.0.0.1 hlrcv.stage.adobe.com 
 127.0.0.1 lmlicenses.wip4.adobe.com 
@@ -21,3 +22,42 @@
 151.101.64.223 pypi.org
 140.82.121.5 api.github.com
 185.199.109.153 githubstatus.com
+
+149.154.167.99 telegram.org
+149.154.167.99 web.telegram.org
+149.154.167.220 api.telegram.org
+
+151.101.250.62 telegram.com
+199.59.242.154 api.telegram.com
+
+52.14.198.104 software.com
+44.236.243.206 api.software.com
+
+34.120.25.175 habitica.com
+199.59.242.254   api.habitica.com
+23.197.104.53 unity3d.com
+23.59.84.55 blogs.unity3d.com
+104.81.233.34 unity.com
+23.59.84.55 download.unity3d.com
+104.199.36.179 docs.unity3d.com
+104.81.117.144 unitysoftware.co1.qualtrics.com
+141.197.76.34 github.cds.internal.unity3d.com
+35.238.21.138 packages-v2.unity.com
+35.238.21.138 packages.unity.com
+52.236.186.210 dc.services.visualstudio.com
+52.236.186.210 dc.applicationinsights.azure.com
+52.236.186.210 dc.applicationinsights.microsoft.com
+35.238.21.138 assetstore.unity3d.com
+35.238.21.138 kharma.unity3d.com
+162.159.135.232 discord.com
+52.215.192.131 discordstatus.com
+199.59.242.154 api.discord.com
+162.159.133.234 discord.gg
+52.84.107.179 dka575ofm4ao0.cloudfront.net
+162.159.136.232 status.discord.com
+162.159.135.234 gateway.discord.gg
+162.159.134.232 media.discordapp.net
+162.159.133.233 cdn.discordapp.com
+162.159.128.235 russia9579.discord.media
+
+
